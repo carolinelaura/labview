@@ -1,0 +1,1 @@
+Please read the final project (tcc - Desenvolvimento de protótipo didático de aplicação do protocolo de rede Modbus RTU para controle de temperatura) document, available in the UFSC repository (jul 2024), for a better understanding. 
